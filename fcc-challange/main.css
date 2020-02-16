@@ -6,9 +6,11 @@ nav {
     display: flex;
     justify-content: flex-end;
     background-color: #BE3144;
-    
+    text-decoration: none;
 }
-
+.nav-list {
+    display: inline-flex;
+}
 #welcome-section {
 margin: 0%;
 
